@@ -5,11 +5,9 @@ Where the goal is to make customers happy with the different types of selected s
 Here you can buy and order the new shoes that are on the way. Sneaker Shop has been focused on putting customers first for years where customer service is available around the clock. For 130 years
 Sneaker Shop has competed with big shoe industries and we are proud to say that we have excelled in the future in both shoe culture and design
 
- 
 
 
-
-Developers: Abdirahman Yusuf: studentnr 225359
+Developers: Abdirahman Yusuf
 
 Web design:  We designed our website using two column layout and used the strategy of progressive enhancement to make the website more responsive for different display modes such as Desktop,Mobile, and Tablet. 
 
